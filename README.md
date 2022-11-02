@@ -3,10 +3,10 @@ Industry-specific intelligent fire management system
 
 Team ID : PNT2022TMID18171 
 
-Team Leader : Jeyakumar
+Team Leader : Jeyakumar M
 
-Team member : Nithyasri
+Team member : Nithyasri M
 
-Team member : Maniyarasu
+Team member : Maniyarasu V
 
-Team member : Gayathri
+Team member : Gayathri U
